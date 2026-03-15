@@ -66,6 +66,3 @@
   │ Session 9 │ OpenAI Agents SDK - Guardrails and Tripwires │
   └───────────┴──────────────────────────────────────────────┘
 
-  - Removed "Features:" subheader (was overly structured)
-  - Simplified the opening line
-  - Replaced em dashes in the Course Arc table with regular hyphens
